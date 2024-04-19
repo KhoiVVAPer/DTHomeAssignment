@@ -1,79 +1,23 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Supported features
+List of features in the app.
 
-# Getting Started
+**Location screen:**
+1. Display list of location tracked.
+2. Display details, map and sharing location.
+3. Edit title, delete location.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+**Setting screen:**
+1. Disable/Enable location tracking.
+2. Disable/Enable notification tracking.
+3. Edit notification config.
+4. Edit location config.
 
-## Step 1: Start the Metro Server
+**Background features:**
+1. Collect user location.
+2. Countdown for push notification noticed they aren't moving.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+# Demo
+<img width="256" alt="Screenshot 2024-04-19 at 12 39 22" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/b0d95373-320c-494f-b2f9-253173b9b360">
+<img width="259" alt="Screenshot 2024-04-19 at 12 39 59" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/b0ff6180-01d7-47d7-aba5-b76ca3b71039">
+<img width="247" alt="Screenshot 2024-04-19 at 12 39 45" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/2b2cc43e-955a-4718-aaab-0e4893179bbf">
+<img width="238" alt="Screenshot 2024-04-19 at 12 39 03" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/a79ce852-ca7f-427b-9268-314da91eb53a">
